@@ -8,7 +8,6 @@ export const menuItems = {
           title: 'BUILD',
           items: [
             { name: 'Design', desc: 'Build high-performing sites' },
-            { name: 'Edit mode', desc: 'Empower your content team' },
             { name: 'Interactions', desc: 'Craft immersive experiences' },
             { name: 'Page building', desc: 'Launch simple landing pages quickly', isNew: true },
           ]
@@ -17,7 +16,6 @@ export const menuItems = {
           title: 'MANAGE',
           items: [
             { name: 'CMS', desc: 'Manage content at scale' },
-            { name: 'Hosting', desc: 'Host and scale your site without the hassle' },
             { name: 'Localization', desc: 'Customize your site for a worldwide audience' },
             { name: 'Security', desc: 'Ensure your site stays safe' },
           ]
