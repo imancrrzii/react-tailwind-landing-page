@@ -2,6 +2,7 @@ import React from "react";
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import CompanyLogo from "./components/CompanyLogo";
+import FeatureSection from "./components/FeatureSection";
 
 const App = () => {
   return (
@@ -9,6 +10,7 @@ const App = () => {
       <Navbar />
       <Hero />
       <CompanyLogo />
+      <FeatureSection />
     </>
   );
 };

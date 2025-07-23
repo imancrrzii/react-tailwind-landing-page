@@ -1,5 +1,7 @@
 // navbar data
 
+import { FiBarChart, FiLayout, FiServer, FiUploadCloud } from "react-icons/fi";
+
 export const menuItems = {
     platform: {
       title: 'Platform',
@@ -72,34 +74,34 @@ export const menuItems = {
   ];
 
 
-// // features section data
+// features section data
 
-// const features = [
-//     {
-//       icon: <FiLayout className="w-8 h-8" />,
-//       title: "Design and build",
-//       description: "Designers can take control of HTML, CSS, and JavaScript in a visual canvas — while marketers can work with pre-made, design-approved building blocks.",
-//       link: "#design-build"
-//     },
-//     {
-//       icon: <FiUploadCloud className="w-8 h-8" />,
-//       title: "Publish and edit",
-//       description: "Choose how you want to add, edit, and update content at scale with our CMS: visually in our platform or programmatically through our headless APIs.",
-//       link: "#publish-edit"
-//     },
-//     {
-//       icon: <FiBarChart className="w-8 h-8" />,
-//       title: "Analyze and optimize",
-//       description: "Transform your site into your most valuable marketing asset with native tools for AI-powered personalization, A/B testing, SEO, localization, and more.",
-//       link: "#analyze-optimize"
-//     },
-//     {
-//       icon: <FiServer className="w-8 h-8" />,
-//       title: "Scale and collaborate",
-//       description: "15,000 websites are published every hour. Confidently scale your site with tools for hosting, security, compliance, and publishing — plus connect to your tech stack with integrations and APIs.",
-//       link: "#scale-collaborate"
-//     }
-//   ];
+export const features = [
+    {
+      icon: FiLayout,
+      title: "Design and build",
+      description: "Designers can take control of HTML, CSS, and JavaScript in a visual canvas — while marketers can work with pre-made, design-approved building blocks.",
+      link: "#design-build"
+    },
+    {
+      icon: FiUploadCloud,
+      title: "Publish and edit",
+      description: "Choose how you want to add, edit, and update content at scale with our CMS: visually in our platform or programmatically through our headless APIs.",
+      link: "#publish-edit"
+    },
+    {
+      icon: FiBarChart,
+      title: "Analyze and optimize",
+      description: "Transform your site into your most valuable marketing asset with native tools for AI-powered personalization, A/B testing, SEO, localization, and more.",
+      link: "#analyze-optimize"
+    },
+    {
+      icon: FiServer,
+      title: "Scale and collaborate",
+      description: "15,000 websites are published every hour. Confidently scale your site with tools for hosting, security, compliance, and publishing — plus connect to your tech stack with integrations and APIs.",
+      link: "#scale-collaborate"
+    }
+  ];
 
 // // design section data
 // const tabsData = [
