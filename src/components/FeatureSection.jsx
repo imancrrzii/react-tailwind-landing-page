@@ -14,7 +14,7 @@ const FeatureSection = () => {
                 key={index}
                 className="flex flex-col text-white border-t border-white/20 pt-8"
               >
-                <Icon className="w-8 h-8" />
+                <Icon className="w-8 h-8 mb-4 text-white"/>
                 <h3 className="text-lg font-medium mb-2">{feature.title}</h3>
                 <p className="text-gray-500 mb-4 flex-1">
                   {feature.description}
