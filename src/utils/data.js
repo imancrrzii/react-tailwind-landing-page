@@ -51,25 +51,25 @@ export const menuItems = {
   };
 
 
-// // company logo data
+// company logo data
 
-// const logos = [
-//     { src: "https://cdn.prod.website-files.com/66e88746834b80507cdf7933/66e8a82d52566d454c99501c_Discord.svg", alt: "Discord", width: 130, height: 27 },
-//     { src: "https://cdn.prod.website-files.com/66e88746834b80507cdf7933/66e8a82d52566d454c994fcd_NCR.svg", alt: "NCR", width: 98, height: 30 },
-//     { src: "https://cdn.prod.website-files.com/66e88746834b80507cdf7933/66e8a82b52566d454c994910_mondaycom.svg", alt: "Monda.com", width: 134, height: 26 },
-//     { src: "https://cdn.prod.website-files.com/66e88746834b80507cdf7933/66e8a82d52566d454c994fdb_Ted.svg", alt: "Ted", width: 56, height: 20 },
-//     { src: "https://cdn.prod.website-files.com/66e88746834b80507cdf7933/66e8a82d52566d454c994fba_Dropbox.svg", alt: "Dropbox", width: 117, height: 24 },
-//     { src: "https://cdn.prod.website-files.com/66e88746834b80507cdf7933/6708139d2e30eb81beb54cc7_orangetheory-logo.svg", alt: "", width: 132, height: 32 },
-//     { src: "https://cdn.prod.website-files.com/66e88746834b80507cdf7933/66e8a82d52566d454c994fb6_Greenhouse.svg", alt: "greenhouse", width: 112, height: 25 },
-//     { src: "https://cdn.prod.website-files.com/66e88746834b80507cdf7933/66e8a82d52566d454c995018_Vice.svg", alt: "Vice", width: 90, height: 28 },
-//     { src: "https://cdn.prod.website-files.com/66e88746834b80507cdf7933/66e8a82e52566d454c99502c_ideo-logo.svg", alt: "Ideo", width: 80, height: 22 },
-//     { src: "https://cdn.prod.website-files.com/66e88746834b80507cdf7933/66e8a82d52566d454c994fb1_Philips.svg", alt: "Philips", width: 87, height: 16 },
-//     { src: "https://cdn.prod.website-files.com/66e88746834b80507cdf7933/66e8a82d52566d454c994fd1_Mural.svg", alt: "Mural", width: 73, height: 22 },
-//     { src: "https://cdn.prod.website-files.com/66e88746834b80507cdf7933/66e8a82e52566d454c995044_Name%3DABM%20Industries%2C%20Mode%3DLight.svg", alt: "ABM Industries", width: 65, height: 37 },
-//     { src: "https://cdn.prod.website-files.com/66e88746834b80507cdf7933/66e8a82e52566d454c995028_TheNewYorkTimes.svg", alt: "The New York Times", width: 211, height: 28 },
-//     { src: "https://cdn.prod.website-files.com/66e88746834b80507cdf7933/66e8a82c52566d454c994f5e_Upwork.svg", alt: "Upwork", width: 90, height: 28 },
-//     { src: "https://cdn.prod.website-files.com/66e88746834b80507cdf7933/66e8a82e52566d454c995054_Decathlon.svg", alt: "decathlon logo", width: 160, height: 22 },
-//   ];
+   export const logos = [
+    { src: "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white", alt: "HTML", width: 130, height: 27 },
+    { src: "https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white", alt: "CSS",  width: 130, height: 27 },
+    { src: "https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white", alt: "Monda.com",  width: 130, height: 27 },
+    { src: "https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white", alt: "Ted", width: 130, height: 27 },
+    { src: "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E", alt: "Dropbox",  width: 130, height: 27},
+    { src: "https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white", alt: "", width: 130, height: 27 },
+    { src: "https://img.shields.io/badge/Flask-%23323330?style=for-the-badge&logo=flask&logoColor=white", alt: "greenhouse",  width: 130, height: 27 },
+    { src: "https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black", alt: "Vice",  width: 130, height: 27 },
+    { src: "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white", alt: "Ideo",  width: 130, height: 27 },
+    { src: "https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white", alt: "Philips",  width: 130, height: 27},
+    { src: "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white", alt: "Mural", width: 130, height: 27 },
+    { src: "https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white", alt: "ABM Industries",  width: 130, height: 27 },
+    { src: "https://img.shields.io/badge/express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white", alt: "The New York Times", width: 130, height: 27 },
+    { src: "https://img.shields.io/badge/node-5FA04E.svg?style=for-the-badge&logo=node.js&logoColor=white", alt: "Upwork", width: 130, height: 27 },
+    { src: "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white", alt: "decathlon logo",  width: 130, height: 27 },
+  ];
 
 
 // // features section data
