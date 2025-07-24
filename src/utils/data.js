@@ -151,43 +151,43 @@ export const tabsData = [
     }
   ];
 
-// // customer section data
+// customer section data
 
-// const customerData = [
-//     {
-//       id: 'techstart',
-//       logo: 'https://cdn.prod.website-files.com/66e88746834b80507cdf7933/66ec7ff7808fef2aeecfff1b_Outliant.svg',
-//       video: 'https://dhygzobemt712.cloudfront.net/Web/home/2024-wxp/customers/lattice.mp4',
-//       poster: 'https://cdn.prod.website-files.com/66e88746834b80507cdf7933/66ec7faa88e83cdb12efc5b3_lattice-bg.webp',
-//       stat: '94%',
-//       statDesc: 'job placement rate',
-//       quote: "CodeTutor's platform revolutionized how we train our junior developers. The AI-powered guidance and interactive exercises have significantly accelerated our onboarding process.",
-//       author: 'Sarah Chen — CTO',
-//       link: '/customers/techstart'
-//     },
-//     {
-//       id: 'edutech',
-//       logo: 'https://cdn.prod.website-files.com/66e88746834b80507cdf7933/66ec7ff8ace31b63debbf4d9_Jasper.svg',
-//       video: 'https://dhygzobemt712.cloudfront.net/Web/home/2024-wxp/customers/outliant.mp4',
-//       poster: 'https://cdn.prod.website-files.com/66e88746834b80507cdf7933/66ec7faad1ba5dcf377b861c_outliant-bg.webp',
-//       stat: '85%',
-//       statDesc: 'completion rate',
-//       quote: "CodeTutor has transformed our computer science curriculum. Students are more engaged and show better understanding of complex programming concepts thanks to the interactive learning approach.",
-//       author: 'Dr. Michael Torres — Department Head',
-//       link: '/customers/edutech'
-//     },
-//     {
-//       id: 'devacademy',
-//       logo: 'https://cdn.prod.website-files.com/66e88746834b80507cdf7933/66ec7ff8a7ffdf748142d329_Fivetran.svg',
-//       video: 'https://dhygzobemt712.cloudfront.net/Web/home/2024-wxp/customers/fivetran.mp4',
-//       poster: 'https://cdn.prod.website-files.com/66e88746834b80507cdf7933/66ec7faad1ba5dcf377b861c_outliant-bg.webp',
-//       stat: '3x',
-//       statDesc: 'faster learning',
-//       quote: "Our students consistently report that CodeTutor's personalized learning paths and AI assistance help them grasp programming concepts three times faster than traditional methods.",
-//       author: 'Rachel Kim — Lead Instructor',
-//       link: '/customers/devacademy'
-//     }
-//   ];
+export const customerData = [
+    {
+      id: 'techstart',
+      logo: 'https://cdn.prod.website-files.com/66e88746834b80507cdf7933/66ec7ff7808fef2aeecfff1b_Outliant.svg',
+      video: 'https://dhygzobemt712.cloudfront.net/Web/home/2024-wxp/customers/lattice.mp4',
+      poster: 'https://cdn.prod.website-files.com/66e88746834b80507cdf7933/66ec7faa88e83cdb12efc5b3_lattice-bg.webp',
+      stat: '94%',
+      statDesc: 'job placement rate',
+      quote: "CodeTutor's platform revolutionized how we train our junior developers. The AI-powered guidance and interactive exercises have significantly accelerated our onboarding process.",
+      author: 'Sarah Chen — CTO',
+      link: '/customers/techstart'
+    },
+    {
+      id: 'edutech',
+      logo: 'https://cdn.prod.website-files.com/66e88746834b80507cdf7933/66ec7ff8ace31b63debbf4d9_Jasper.svg',
+      video: 'https://dhygzobemt712.cloudfront.net/Web/home/2024-wxp/customers/outliant.mp4',
+      poster: 'https://cdn.prod.website-files.com/66e88746834b80507cdf7933/66ec7faad1ba5dcf377b861c_outliant-bg.webp',
+      stat: '85%',
+      statDesc: 'completion rate',
+      quote: "CodeTutor has transformed our computer science curriculum. Students are more engaged and show better understanding of complex programming concepts thanks to the interactive learning approach.",
+      author: 'Dr. Michael Torres — Department Head',
+      link: '/customers/edutech'
+    },
+    {
+      id: 'devacademy',
+      logo: 'https://cdn.prod.website-files.com/66e88746834b80507cdf7933/66ec7ff8a7ffdf748142d329_Fivetran.svg',
+      video: 'https://dhygzobemt712.cloudfront.net/Web/home/2024-wxp/customers/fivetran.mp4',
+      poster: 'https://cdn.prod.website-files.com/66e88746834b80507cdf7933/66ec7faad1ba5dcf377b861c_outliant-bg.webp',
+      stat: '3x',
+      statDesc: 'faster learning',
+      quote: "Our students consistently report that CodeTutor's personalized learning paths and AI assistance help them grasp programming concepts three times faster than traditional methods.",
+      author: 'Rachel Kim — Lead Instructor',
+      link: '/customers/devacademy'
+    }
+  ];
 
 
 // //   about section data

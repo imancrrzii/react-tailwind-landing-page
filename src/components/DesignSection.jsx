@@ -84,7 +84,7 @@ const DesignSection = () => {
               </Link>
             </div>
             <div className="space-y-6">
-              {tabsData.map((tab, index) => (
+              {tabsData.map((tab) => (
                 <div
                   onClick={() => handleTabClick(tab.id)}
                   className="relative pl-4 cursor-pointer"
