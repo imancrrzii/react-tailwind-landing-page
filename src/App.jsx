@@ -5,6 +5,7 @@ import CompanyLogo from "./components/CompanyLogo";
 import FeatureSection from "./components/FeatureSection";
 import DesignSection from "./components/DesignSection";
 import CustomerSection from "./components/CustomerSection";
+import About from "./components/About";
 
 const App = () => {
   return (
@@ -15,6 +16,7 @@ const App = () => {
       <FeatureSection />
       <DesignSection />
       <CustomerSection />
+      <About/>
     </>
   );
 };

@@ -190,46 +190,46 @@ export const customerData = [
   ];
 
 
-// //   about section data
+//   about section data
 
-// const aboutFeatures = [
-//     {
-//       id: "ai-1",
-//       title: "Generate styled content quickly",
-//       description:
-//         "Whether you're trying to build even faster or you're just new to codeTutor, you can use AI Assistant to generate new page sections using your site's existing design system.",
-//       link: "https://help.webflow.com/hc/en-us/articles/34205154436243",
-//       linkText: "Explore documentation",
-//       video:
-//         "https://dhygzobemt712.cloudfront.net/Web/home/2024-wxp/features/design-assistant-ai.mp4",
-//       poster:
-//         "https://cdn.prod.website-files.com/66e88746834b80507cdf7933/6705703132e8c6c85119c96d_design-assistant.avif",
-//     },
-//     {
-//       id: "ai-2",
-//       title: "Generate text right within codetutor",
-//       description:
-//         "Quickly and easily create new content, natively within CodeTutor. From generating first-pass content to publishing at speed, the AI Assistant can help you develop variations with just a few clicks.",
-//       link: "https://help.webflow.com/hc/articles/34295931022099",
-//       linkText: "Explore documentation",
-//       video:
-//         "https://dhygzobemt712.cloudfront.net/Web/home/2024-wxp/features/writing-assistant-square.mp4",
-//       poster:
-//         "https://cdn.prod.website-files.com/66e88746834b80507cdf7933/67057031236cd506cd0ae632_writing-assistant.avif",
-//     },
-//     {
-//       id: "ai-3",
-//       title: "Generate text right within CodeTutor",
-//       description:
-//         "Quickly and easily create new content, natively within codetutor. From generating first-pass content to publishing at speed, the AI Assistant can help you develop variations with just a few clicks.",
-//       link: "https://help.webflow.com/hc/articles/34295931022099",
-//       linkText: "Explore documentation",
-//       video:
-//         "https://dhygzobemt712.cloudfront.net/Web/home/2024-wxp/features/writing-assistant-square.mp4",
-//       poster:
-//         "https://cdn.prod.website-files.com/66e88746834b80507cdf7933/67057031236cd506cd0ae632_writing-assistant.avif",
-//     },
-//   ];
+export const aboutFeatures = [
+    {
+      id: "ai-1",
+      title: "Generate styled content quickly",
+      description:
+        "Whether you're trying to build even faster or you're just new to codeTutor, you can use AI Assistant to generate new page sections using your site's existing design system.",
+      link: "https://help.webflow.com/hc/en-us/articles/34205154436243",
+      linkText: "Explore documentation",
+      video:
+        "https://dhygzobemt712.cloudfront.net/Web/home/2024-wxp/features/design-assistant-ai.mp4",
+      poster:
+        "https://cdn.prod.website-files.com/66e88746834b80507cdf7933/6705703132e8c6c85119c96d_design-assistant.avif",
+    },
+    {
+      id: "ai-2",
+      title: "Generate text right within codetutor",
+      description:
+        "Quickly and easily create new content, natively within CodeTutor. From generating first-pass content to publishing at speed, the AI Assistant can help you develop variations with just a few clicks.",
+      link: "https://help.webflow.com/hc/articles/34295931022099",
+      linkText: "Explore documentation",
+      video:
+        "https://dhygzobemt712.cloudfront.net/Web/home/2024-wxp/features/writing-assistant-square.mp4",
+      poster:
+        "https://cdn.prod.website-files.com/66e88746834b80507cdf7933/67057031236cd506cd0ae632_writing-assistant.avif",
+    },
+    {
+      id: "ai-3",
+      title: "Generate text right within CodeTutor",
+      description:
+        "Quickly and easily create new content, natively within codetutor. From generating first-pass content to publishing at speed, the AI Assistant can help you develop variations with just a few clicks.",
+      link: "https://help.webflow.com/hc/articles/34295931022099",
+      linkText: "Explore documentation",
+      video:
+        "https://dhygzobemt712.cloudfront.net/Web/home/2024-wxp/features/writing-assistant-square.mp4",
+      poster:
+        "https://cdn.prod.website-files.com/66e88746834b80507cdf7933/67057031236cd506cd0ae632_writing-assistant.avif",
+    },
+  ];
 
 
 // //   footer section data
