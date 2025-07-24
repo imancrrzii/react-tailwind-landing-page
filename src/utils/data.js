@@ -232,45 +232,37 @@ export const aboutFeatures = [
   ];
 
 
-// //   footer section data
+//   footer section data
 
-// const footerLinks = {
-//     product: {
-//       title: 'Product',
-//       links: [
-//         { name: 'Features', href: '/features' },
-//         { name: 'Design', href: '/design' },
-//         { name: 'Interactions', href: '/interactions' },
-//         { name: 'Page Building', href: '/page-building' },
-//         { name: 'AI Assistant', href: '/ai' }
-//       ]
-//     },
-//     company: {
-//       title: 'Company',
-//       links: [
-//         { name: 'About Us', href: '/about' },
-//         { name: 'Careers', href: '/careers' },
-//         { name: 'Press', href: '/press' },
-//         { name: 'Blog', href: '/blog' },
-//         { name: 'Contact', href: '/contact' }
-//       ]
-//     },
-//     resources: {
-//       title: 'Resources',
-//       links: [
-//         { name: 'Documentation', href: '/docs' },
-//         { name: 'Tutorials', href: '/tutorials' },
-//         { name: 'Community', href: '/community' },
-//         { name: 'Support', href: '/support' },
-//         { name: 'API', href: '/api' }
-//       ]
-//     }
-//   };
-
-// const socialLinks = [
-//     { icon: <FaFacebook />, href: 'https://facebook.com' },
-//     { icon: <FaTwitter />, href: 'https://twitter.com' },
-//     { icon: <FaInstagram />, href: 'https://instagram.com' },
-//     { icon: <FaLinkedin />, href: 'https://linkedin.com' },
-//     { icon: <FaYoutube />, href: 'https://youtube.com' }
-//   ];
+export const footerLinks = {
+    product: {
+      title: 'Product',
+      links: [
+        { name: 'Features', href: '/features' },
+        { name: 'Design', href: '/design' },
+        { name: 'Interactions', href: '/interactions' },
+        { name: 'Page Building', href: '/page-building' },
+        { name: 'AI Assistant', href: '/ai' }
+      ]
+    },
+    company: {
+      title: 'Company',
+      links: [
+        { name: 'About Us', href: '/about' },
+        { name: 'Careers', href: '/careers' },
+        { name: 'Press', href: '/press' },
+        { name: 'Blog', href: '/blog' },
+        { name: 'Contact', href: '/contact' }
+      ]
+    },
+    resources: {
+      title: 'Resources',
+      links: [
+        { name: 'Documentation', href: '/docs' },
+        { name: 'Tutorials', href: '/tutorials' },
+        { name: 'Community', href: '/community' },
+        { name: 'Support', href: '/support' },
+        { name: 'API', href: '/api' }
+      ]
+    }
+  };

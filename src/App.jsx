@@ -6,6 +6,7 @@ import FeatureSection from "./components/FeatureSection";
 import DesignSection from "./components/DesignSection";
 import CustomerSection from "./components/CustomerSection";
 import About from "./components/About";
+import Footer from "./components/Footer";
 
 const App = () => {
   return (
@@ -17,6 +18,7 @@ const App = () => {
       <DesignSection />
       <CustomerSection />
       <About/>
+      <Footer/>
     </>
   );
 };
