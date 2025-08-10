@@ -107,7 +107,7 @@ export const features = [
 export const tabsData = [
     {
       id: 'tab1',
-      title: 'Design without limitless',
+      title: 'Design without limits',
       subtitle: 'CodeTutor puts the power of code into a visual canvas so every team can create stunning websites quickly — and extend the power of their work with custom code.',
       video: 'https://dhygzobemt712.cloudfront.net/Web/home/2024-wxp/features/design.mp4',
       poster: 'https://cdn.prod.website-files.com/66e88746834b80507cdf7933/670570322cf4b274d716fed4_design-without-limits.avif',
