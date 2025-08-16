@@ -97,9 +97,9 @@ export const features = [
     },
     {
       icon: FiServer,
-      title: "Scale and collaborate",
+      title: "Scale and collaborates",
       description: "15,000 websites are published every hour. Confidently scale your site with tools for hosting, security, compliance, and publishing — plus connect to your tech stack with integrations and APIs.",
-      link: "#scale-collaborate"
+      link: "#scale-collaborates"
     }
   ];
 
